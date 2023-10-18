@@ -1,0 +1,16 @@
+table, td{
+    border: 1px solid rgb(63, 63, 63);
+}
+table{
+    width: 100%;
+}
+img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+button{
+    display: block;
+    margin: 20px auto;
+}
